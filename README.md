@@ -6,6 +6,14 @@ A web-based and Discord-integrated system to manage and organize a guild in Albi
 
 ## Key Features
 
+### Ticketing System
+
+- Ability to submit a ticket for the following reasons
+  - Complaints
+  - Suggestions
+  - Requests
+  - Technical Problems with Web App
+
 ### Contribution Tracking and Rewards
 
 - Track various in-game activities and contributions:
