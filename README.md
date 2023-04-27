@@ -1,5 +1,7 @@
 # The Grey Council's Adatzu System
 
+*Will be hosted at https://thegreycouncil.online when ready for production testing*
+
 ## Overview
 
 A web-based and Discord-integrated system to manage and organize a guild in Albion Online, rewarding members based on their contributions and fostering a democratic decision-making process.
